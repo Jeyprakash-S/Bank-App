@@ -1,0 +1,12 @@
+Create Account :
+
+Name, age, dob, phone no , account number, Generate new password () etc
+
+Login account :
+Account no:
+No account -> create new account (re enter login page )or re entry the account no 
+Account validation
+Forgot pwd -> default pwd - 1234 -> Generate new password ()-> go back to re login page -> new password  sign in  
+
+
+Generate new password ()
